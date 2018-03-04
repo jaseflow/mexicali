@@ -1,0 +1,12 @@
+body {
+    background: #FFE6E1;
+    font-family: "Roboto";
+}
+
+.nav-tabs>li>a {
+    background: none;
+    border: 1px solid #649682;
+    color: #649682;
+    text-transform: uppercase;
+    border-radius: 0;
+}
